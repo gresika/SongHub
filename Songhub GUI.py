@@ -1,4 +1,4 @@
-#importing libraries vrinda is good
+#importing libraries
 
 import tkinter     #Structure
 from tkinter import *
