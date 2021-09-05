@@ -1,4 +1,4 @@
-#importing libraries gresika vrinda 
+#importing libraries 
 
 import tkinter     #Structure
 from tkinter import *
