@@ -1,4 +1,4 @@
-#importing libraries vrinda bread
+#importing libraries vrinda is good
 
 import tkinter     #Structure
 from tkinter import *
